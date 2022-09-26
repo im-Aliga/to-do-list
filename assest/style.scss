@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section{
+    form{
+        margin-top: 20%;
+        display: flex;
+        justify-content: center;
+        input{
+            width: 80%;
+            border-radius: 20px;
+            height: 50px;
+        }
+        button{
+            width: 20%;
+            height: 50px;
+            border-radius: 20px;
+
+        }
+    }
+    .fezail{
+        justify-content: center;
+    }
+    #textdiv{
+    }
+    
+    
+    
+    .mezahir{
+    border-radius: 20px;
+    padding: 0 20px;
+    align-items: center;
+    margin-top: 10px;
+        
+    }
+    .remove{
+        cursor: pointer;
+    }
+}
